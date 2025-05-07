@@ -1,0 +1,12 @@
+[submodule "DATN_BE"]
+	path = DATN_BE
+	url = https://github.com/JustThaiSon/DATN_BE.git
+[submodule "DATN_FE_ADMIN"]
+	path = DATN_FE_ADMIN
+	url = https://github.com/FomeG/DATN_FE_ADMIN.git
+[submodule "DATN_HTML"]
+	path = DATN_HTML
+	url = https://github.com/babyoiii/DATN_HTML.git
+[submodule "POS_NHANVIEN"]
+	path = POS_NHANVIEN
+	url = https://github.com/babyoiii/POS_NHANVIEN.git
